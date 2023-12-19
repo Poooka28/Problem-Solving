@@ -1,3 +1,4 @@
 PROBLEM-SOLVING
-Array ==>[ Basic -> Medium -> Hard ]
-String ==>[ Basic -> Medium -> Hard ]
+Array ==>[ Easy -> Medium -> Hard ]
+
+String ==>[ Easy-> Medium -> Hard ]
